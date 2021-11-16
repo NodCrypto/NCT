@@ -27,6 +27,16 @@ Oh yes:grey_exclamation:, I'm active on Telegram and Discord, maybe also Twitter
 ### Bitcoin Cash (*BCH*)
 ```
 qzrap9w4qgnkrzl7uv0rqy6pd507fqkfjvry8tce0r 
-
 ```
 Cek Balance on [Blockchair.com](https://blockchair.com/bitcoin-cash/address/qzrap9w4qgnkrzl7uv0rqy6pd507fqkfjvry8tce0r)
+
+### BITCOIN.COM WALLET
+*- BITCOIN CASH*
+```
+bitcoincash:qr3u56ugy9zsufw7a3gehetn46975ka9v50rc5zwk3
+```
+*- SIMPLE LEDGER*
+```
+simpleledger:qr3u56ugy9zsufw7a3gehetn46975ka9v5rcn0hwg0
+```
+Cek Balance on [simpleledger.info](https://simpleledger.info/address/simpleledger:qr3u56ugy9zsufw7a3gehetn46975ka9v5rcn0hwg0)
